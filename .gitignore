@@ -1,0 +1,14 @@
+/vendor/
+/node_modules/
+/.env
+/storage/*.key
+/storage/app/*
+/storage/framework/*
+/storage/logs/*
+!/storage/app/.gitkeep
+!/storage/framework/.gitkeep
+!/storage/logs/.gitkeep
+.phpunit.result.cache
+.DS_Store
+Thumbs.db
+*.log
